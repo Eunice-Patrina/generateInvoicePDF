@@ -1,1 +1,1 @@
-# genererate invoice PDF from EXCEL file
+# Genererate invoice PDF from EXCEL file
